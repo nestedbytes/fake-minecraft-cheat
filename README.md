@@ -1,5 +1,7 @@
 # fake-minecraft-cheat
 A software used to get the cheaters ip and ip ban them in servers.
+# DISCLAIMER
+This is just for educational purposes don't hack anybody.
 # About
 This cheat is a software which sends the ip to a webhook and then minecraft servers can ip ban them.
 # Modify
